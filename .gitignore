@@ -1,0 +1,58 @@
+# =========================
+# Unity (gerado automaticamente)
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Cache / artefatos do editor
+.vs/
+.vscode/
+.idea/
+.gradle/
+
+# =========================
+# Visual Studio / Rider / C#
+# =========================
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.tmp
+*.log
+*.tlog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# =========================
+# OS / gerais
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Builds / pacotes exportados
+# =========================
+*.apk
+*.aab
+
+# =========================
+# Keystore (NÃO commitar)
+# =========================
+*.keystore
+*.jks
